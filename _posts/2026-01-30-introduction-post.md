@@ -1,6 +1,9 @@
 ---
 layout: post
 author: Dylan
+image: assets/images/IMG_9304.jpeg
+categories: [blog]
+tags: [sticky]
 ---
 I have just completed the [Jekyll Blogging assignment](https://hendrix-cs.github.io/csci340/labs/jekyll.html). The hardest part of this assignment was definitely installing Ruby, although I luckily had gone through the pain of installing it and adding it to my path while doing work for [Disco Tray](https://discotraystudios.github.io/). It is also nice to get some more practice using markdown, which I haven't done in a while. I think I have a good setup for previewing my markdown file on VScode. I also think I am getting the hang of how github pages push website edits from my computer to the web. I am looking forward to improving the website in a few ways.
 
